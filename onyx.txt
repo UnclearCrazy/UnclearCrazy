@@ -4,7 +4,7 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
 
 Title = "Onyx Hub V2",     
 
-Text = "Join GA$ .gg/EGwHzGvvtu",
+Text = "Join Onyx .gg/EGwHzGvvtu",
 
 Button1 = "🔵",
 
